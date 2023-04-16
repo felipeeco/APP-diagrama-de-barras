@@ -1,0 +1,47 @@
+{
+  "Meses":[
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio"
+  ],
+  "VentasPorMayor":[
+    {
+      "label": "Bogotá",
+      "data": [300, 200, 500, 400, 100, 50],
+      "backgroundColor": "rgba(255, 99, 132, 0.5)"
+    },
+    {
+      "label": "Medellin",
+      "data": [500, 300, 500, 200, 100, 150],
+      "backgroundColor": "rgba(53, 162, 235, 0.5)"
+    }
+  ],
+  "VentasPorMenor":[
+    {
+      "label": "Bogotá",
+      "data": [30, 20, 10, 10, 10, 50],
+      "backgroundColor": "rgba(255, 99, 132, 0.5)"
+    },
+    {
+      "label": "Medellin",
+      "data": [10, 30, 50, 20, 10, 15],
+      "backgroundColor": "rgba(53, 162, 235, 0.5)"
+    }
+  ],
+  "UsuarioPorCiudad":[
+    {
+      "label": "Bogotá",
+      "data": [3000, 2000, 5000, 4000, 1000, 5000],
+      "backgroundColor": "rgba(255, 99, 132, 0.5)"
+    },
+    {
+      "label": "Medellin",
+      "data": [1000, 3000, 2000, 2000, 1000, 1500],
+      "backgroundColor": "rgba(53, 162, 235, 0.5)"
+    }
+  ]
+
+}

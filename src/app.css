@@ -1,0 +1,13 @@
+.main-title {
+    margin-bottom: 2rem;
+}
+
+.box-select div {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1100px){
+    .m-bottom {
+        margin-bottom: 10px;
+    }
+}
